@@ -1,7 +1,7 @@
 ![Header](https://raw.githubusercontent.com/kpratt-yvr/LavaFlow/refs/heads/main/Logo.png) 
 # LavaFlow
 
-A lightweight macOS tool that syncs your Apple Notes into an Obsidian vault every night at 11:59 PM. Only new or edited notes are written — unchanged notes are skipped.
+A lightweight macOS tool that syncs your Apple Notes into an Obsidian vault every night at 11:59 PM. Only new or edited notes are written unchanged notes are skipped. I created this, mostly because the Obsidian mobile experience is not great, while the Apple Notes experience is fast, smooth, and easy to use on the go. The key is to use Apple Notes as the entry point for mobile notes, which will be synced to an Obsidian vault nightly, ensuring they are in sync. 
 
 ## How it works
 
