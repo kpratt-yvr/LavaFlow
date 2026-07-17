@@ -1,4 +1,4 @@
-![Header]([https://raw.githubusercontent.com/kpratt-yvr/Conduit/refs/heads/main/images/conduit.jpg](https://raw.githubusercontent.com/kpratt-yvr/LavaFlow/refs/heads/main/Logo.png)) 
+![Header](https://raw.githubusercontent.com/kpratt-yvr/LavaFlow/refs/heads/main/Logo.png) 
 # LavaFlow
 
 A lightweight macOS tool that syncs your Apple Notes into an Obsidian vault every night at 11:59 PM. Only new or edited notes are written — unchanged notes are skipped.
